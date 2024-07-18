@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a04d24b-98c6-45ff-a41c-871308cae038" name="Changes" comment="No Commit Message">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimAnimals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/AllBeings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Boa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Boar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Buffalo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Caterpillar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Deer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Goat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Sheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Vulture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/BeingsNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/Plants/Plants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Display/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Util/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorldInit/Setup.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2j8MfYfc5eSjWOAYTdhRIxfiSsm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a04d24b-98c6-45ff-a41c-871308cae038" name="Changes" comment="" />
+      <created>1720764358551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720764358551</updated>
+      <workItem from="1720764360132" duration="8083000" />
+      <workItem from="1720852294069" duration="18227000" />
+      <workItem from="1720954699888" duration="8934000" />
+      <workItem from="1720963739491" duration="57000" />
+      <workItem from="1720964584533" duration="26732000" />
+      <workItem from="1721035546673" duration="48349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="No Commit Message" />
+    <option name="LAST_COMMIT_MESSAGE" value="No Commit Message" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((java.util.Collections.SynchronizedRandomAccessList)((Cell)this).AnimalsList).get(3)" custom="java.util.Collections.SynchronizedRandomAccessList,Area.Cell" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
