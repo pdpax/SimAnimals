@@ -1,37 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3a04d24b-98c6-45ff-a41c-871308cae038" name="Changes" comment="No Commit Message">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimAnimals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beings/AllBeings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Boa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Boar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Buffalo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Caterpillar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Deer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Fox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Goat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Rabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Sheep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Vulture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Species/Wolf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beings/BeingsNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beings/Plants/Plants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Display/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Util/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorldInit/Setup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid12764.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Area/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Area/Grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Area/MaxPerCellType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Area/Terrain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Diet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/Animals/Sex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beings/Transporter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +34,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pdpax&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/pdpax/SimAnimals.git&quot;,
+    &quot;accountId&quot;: &quot;6b5e445c-5508-438b-9e0c-db459247923b&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2j8MfYfc5eSjWOAYTdhRIxfiSsm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -60,16 +60,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/CodingPractices/Java/SimAnimals",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,8 +88,16 @@
       <workItem from="1720954699888" duration="8934000" />
       <workItem from="1720963739491" duration="57000" />
       <workItem from="1720964584533" duration="26732000" />
-      <workItem from="1721035546673" duration="48349000" />
+      <workItem from="1721035546673" duration="48992000" />
     </task>
+    <task id="LOCAL-00001" summary="No Commit Message">
+      <created>1721297831069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721297831069</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
